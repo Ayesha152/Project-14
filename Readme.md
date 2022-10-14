@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Live-Link-blue)](https://creative-photography-landing-page.netlify.app/)
 
 ## Skills acquired 👨‍💻
-- How to use flexbox propertiesto design the page.
+- How to use flexbox properties to design the page.
 - Learned to make use of css fixed position to design the navbar.
 
 ## Time taken to complete the proj
