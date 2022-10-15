@@ -6,7 +6,8 @@
 - How to use flexbox properties to design the page.
 - Learned to make use of css fixed position to design the navbar.
 
-## Time taken to complete the proj
+## Time taken to complete the project ⏲️
+
 
 10 hrs
 
