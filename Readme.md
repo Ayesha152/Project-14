@@ -1,6 +1,6 @@
 # Photography Landing Page &nbsp; ![badge](https://img.shields.io/badge/HTML%20and%20CSS-Project14-green) &nbsp; ![badge](https://img.shields.io/badge/-Responsive-orange)
 
-[![](https://img.shields.io/badge/Live-Link-blue)](https://creative-photography-landing-page.netlify.app/)
+[![](https://img.shields.io/badge/Live-Link-blue)](https://project-14-git-main-ayesha152.vercel.app/)
 
 ## Skills acquired 👨‍💻
 - How to use flexbox properties to design the page.
